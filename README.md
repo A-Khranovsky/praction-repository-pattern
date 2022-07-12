@@ -2,7 +2,7 @@
 Praction with repository pattern.
 
 ## Description
-Project shows how is realized repository pattern. In this project (as usual) the repository pattern is set using the interface which is
+Project shows how is realized repository pattern. In this project the repository pattern is set using the interface which is
 shown bellow:
 ```
 interface MyRepositoryInterface
